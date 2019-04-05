@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greeting",
+            "request": "launch",
+            "mainClass": "Greeting",
+            "projectName": "IntroductionToJavaProgramming_f7950048"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greeting",
+            "request": "launch",
+            "mainClass": "Greeting",
+            "projectName": "IntroductionToJavaProgramming"
+        }
+    ]
+}
