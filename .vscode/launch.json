@@ -2,17 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Greeting",
+            "name": "CodeLens (Launch) - Exercise_02_01",
             "request": "launch",
-            "mainClass": "Greeting",
-            "projectName": "IntroductionToJavaProgramming_f7950048"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Greeting",
-            "request": "launch",
-            "mainClass": "Greeting",
-            "projectName": "IntroductionToJavaProgramming"
+            "mainClass": "Exercise_02_01",
+            "projectName": "IntroductionToJavaProgramming_f7950048",
+            "console": "externalTerminal"
         }
     ]
 }
